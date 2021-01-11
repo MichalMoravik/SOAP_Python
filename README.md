@@ -15,3 +15,5 @@ The server is made using Spyne package - [Spyne docs](http://spyne.io/#inprot=Ht
 
 A simple console application able to access the WSDL file and then use the available services.
 The processes are then executed on the server and response is sent back to the client. 
+
+The client is made using Zeep package - [Zeep docs](https://docs.python-zeep.org/en/master/)
